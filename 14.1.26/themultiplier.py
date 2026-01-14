@@ -1,0 +1,1 @@
+for x in range(12): print(f"{x} X $5 = ${x*5}")
